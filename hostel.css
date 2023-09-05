@@ -1,0 +1,139 @@
+.margin{
+    margin-left: 40px;
+}
+.heading{
+    border: transparent;
+    background-color: rgb(187, 192, 192);
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.img{
+    float: left;
+    height: 110px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    
+}
+.txt{
+    padding-left: 80px;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: transparent;
+    width: 300px;
+}
+.box{
+    border: 2px solid  black;
+    background-color: rgb(187, 192, 192);
+    height: 250px;
+    width: 250px;
+  
+    float: right;
+    margin-right: 90px;
+    border-radius: 5px;
+}
+.in{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 500px;  
+    
+
+}
+
+.r{
+    margin-left: 20px;
+}
+.parent1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    margin-right: 500px;
+
+}
+    .parent2{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;  
+        margin-right: 500px;
+    
+    }
+
+.g-1{
+      display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    margin-right: 400px;
+
+}
+.g-2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    margin-right: 400px;
+}
+.pf{
+    border: 2px solid black;
+
+    background-color:rgb(187, 192, 192);
+ height:100px;
+ width: 200px;
+ border-radius: 5px;
+}
+.g1{
+    border: 2px solid black;
+
+    background-color:rgb(187, 192, 192);
+ height: 100px;
+ width: 100px;
+ border-color: black;
+ border-radius: 5px;
+}
+.g2{
+    border: 2px solid black;
+    background-color:rgb(187, 192, 192);
+ height: 100px;
+ width: 100px;
+ border-radius: 5px;
+}
+.box2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    gap: 50px;
+    width: 900px;
+    border: transparent;
+
+}
+.G{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;  
+    gap: 50px;
+    width: 900px;
+    border: transparent;
+}
+.G p{
+    margin-left: 30px;
+}
+.I{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 100px;
+}
+.a{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: transparent;
+    width: 300px;
+
+}
